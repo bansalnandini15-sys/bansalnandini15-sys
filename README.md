@@ -1,5 +1,8 @@
+![logo](https://github.com/bansalnandini15-sys/bansalnandini15-sys/blob/main/programmer.gif)
 <h1 align="center">Hi 👋, I'm Nandini Bansal</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+
+<img align="right" alt="Kryptora" width="400" src="https://github.com/bansalnandini15-sys/bansalnandini15-sys/blob/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalnandini15-sys&label=Profile%20views&color=0e75b6&style=flat" alt="bansalnandini15-sys" /> </p>
 
